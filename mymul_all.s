@@ -177,5 +177,5 @@ checkregs:
     sw      $t0,8($sp)
     sw      $t0,12($sp)
     jr      $ra
-.include "/pub/cs/gboyd/cs270/util.s"
+.include "util.s"
 
